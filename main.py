@@ -1,1 +1,1 @@
-print hola mundo
+print("El Luis es tremendo huec0")
